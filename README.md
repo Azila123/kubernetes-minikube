@@ -31,7 +31,7 @@ This project contains a web service coded in Java, but the language doesn't matt
 
 First of all, download and uncompress the project: https://github.com/charroux/kubernetes-minikube
 
-You can also use git: `git clone https://github.com/charroux/kubernetes-minikube`
+You can also use git: `git clone https://github.com/Azila123/kubernetes-minikube`
 
 Then move to the sud directory with `cd kubernetes-minikube/myservice` where a DockerFile is.
 
